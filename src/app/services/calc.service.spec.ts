@@ -13,4 +13,13 @@ describe('CalcService', () => {
   it('should be created', () => {
     expect(service).toBeTruthy();
   });
+
+  it('should add two numbers', () => {
+    pending();
+  });
+
+  it('should substract two numbers', () => {
+    pending();
+    // fail();
+  });
 });
